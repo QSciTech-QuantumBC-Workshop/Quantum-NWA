@@ -9,7 +9,7 @@ We're going to tackle the classification problem with the Iris data set and comp
 
 Hamza Mouharrar: Classical classification using SVM
 
-Quang Le: Quantum classification using VQC
+Quang Le: Quantum classification using QSVC and VQC
 
 Jamal Mohammad Khani: Quantum classification using QAOA
 
