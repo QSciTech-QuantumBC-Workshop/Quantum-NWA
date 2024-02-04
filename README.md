@@ -4,7 +4,7 @@ Quantum-NWA
 We're going to tackle the classification problem with the Iris data set and compare the classical (SVM) and quantum classification (VQC)
 
 --------------------
-\bf{Workload division:}
+Workload division:
 
 Hamza Mouharrar: Classical classification using SVM
 Quang Le: Quantum classification using VQC
