@@ -1,4 +1,6 @@
 Quantum-NWA
+--------------------
+
 We're going to tackle the classification problem with the Iris data set and compare the classical (SVM) and quantum classification (VQC)
 
 --------------------
