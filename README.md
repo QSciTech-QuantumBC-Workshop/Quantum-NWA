@@ -7,7 +7,9 @@ We're going to tackle the classification problem with the Iris data set and comp
 Workload division:
 
 Hamza Mouharrar: Classical classification using SVM
+
 Quang Le: Quantum classification using VQC
+
 Jamal Mohammad Khani: Quantum classification using QAOA
 
 -------------------
