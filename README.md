@@ -2,8 +2,7 @@
 --------------------
 **Problem statement:**
 
-We're going to tackle the classification problem with the Iris data set and compare the classical (SVM) and quantum classification (VQC), and QAOA
-
+We will address the classification problem using the Iris dataset, aiming to compare the effectiveness of classical machine learning models against quantum machine learning models.
 --------------------
 **Workload division:**
 
