@@ -3,7 +3,7 @@
 **Problem statement:**
 
 We will address the classification problem using the Iris dataset, aiming to compare the effectiveness of classical machine learning models against quantum machine learning models.
---------------------
+
 **Workload division:**
 
 Hamza Mouharrar: Classical classification using SVM
