@@ -6,7 +6,7 @@ We will address the classification problem using the Iris dataset, aiming to com
 
 **Workload division:**
 
-Hamza Mouharrar: Classical classification using SVM
+Hamza Mouharrar: Classical machine learning models (SVM, NN)
 
 Quang Le: Quantum classification using QSVC and VQC
 
