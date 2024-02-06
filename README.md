@@ -8,7 +8,7 @@ We will address the classification problem using the Iris dataset, aiming to com
 
 Hamza Mouharrar: Classical machine learning models (SVM, NN)
 
-Quang Le: Quantum classification using QSVC and VQC
+Quang Le: Quantum classification using QkNN, QSVC and VQC
 
 Jamal Mohammad Khani: Quantum classification using QNN
 
