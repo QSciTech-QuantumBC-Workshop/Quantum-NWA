@@ -10,7 +10,7 @@ Hamza Mouharrar: Classical machine learning models (SVM, NN)
 
 Quang Le: Quantum classification using QSVC and VQC
 
-Jamal Mohammad Khani: Quantum classification using QAOA
+Jamal Mohammad Khani: Quantum classification using QNN
 
 -------------------
 
